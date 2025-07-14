@@ -1,4 +1,6 @@
-<h1 align="center">Hi there 👋, I'm Leandro Emanuel Varela</h1>
+<p align="center">
+  <img src="banner.png" alt="Banner" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Backend-Python-blue?style=for-the-badge&logo=python" />
@@ -68,6 +70,4 @@ Recently, I've been expanding my skills in **React + Vite**, infrastructure auto
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leankdi20&layout=compact&theme=radical" width="350" />
 </p>
 
-<p align="center">
-  <img src="banner.png" alt="Banner" width="100%" />
-</p>
+
